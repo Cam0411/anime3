@@ -13,6 +13,12 @@
     margin-right: auto;
     max-width:100%;
 }
+.heading__logo 
+{
+    background: -webkit-linear-gradient( left, #fff,#fff, #e63334);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 @keyframes fadeUp{
     from{
         transform: translateY(7%);
